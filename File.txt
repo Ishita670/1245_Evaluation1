@@ -1,1 +1,2 @@
 This is file of first evaluation of scm.
+Full form of SCM is SOURCE CODE MANAGEMENT.
